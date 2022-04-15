@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/IMG-20220411-WA0032.jpg") top right;
+  background: url("../img/http-connection-1536x1024.jpg") top right;
   background-size: cover;
   position: relative;
 }
@@ -522,7 +522,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/iqbal.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
